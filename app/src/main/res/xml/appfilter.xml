@@ -62,4 +62,10 @@
     <item component="ComponentInfo{com.axis.mobile/.MainActivity}" drawable="axis"/>
 <!--    BGMI-->
     <item component="ComponentInfo{com.pubg.imobile/com.epicgames.ue4.SplashActivity}" drawable="pubg"/>
+<!--    Maps-->
+    <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="map_search"/>
+<!--    Google Meet-->
+    <item component="ComponentInfo{com.google.android.apps.tachyon/.MainActivity}" drawable="google_meet"/>
+<!--    VLC-->
+    <item component="ComponentInfo{org.videolan.vlc/.StartActivity}" drawable="clapperboard"/>
 </resources>
