@@ -33,7 +33,7 @@
 <!--    Paytm Money-->
     <item component="ComponentInfo{com.paytmmoney/.ui.splash.BaseSplashActivity}" drawable="hand_money"/>
 <!--    Firefox-->
-    <item component="ComponentInfo{org.mozilla.firefox/.App}" drawable="planet"/>
+    <item component="ComponentInfo{org.mozilla.firefox/.App}" drawable="firefox"/>
 <!--    Proton Pass-->
     <item component="ComponentInfo{proton.android.pass/.ui.MainActivity}" drawable="password"/>
 <!--    Settings-->
