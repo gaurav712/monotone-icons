@@ -55,7 +55,7 @@
 <!--    IndMoney-->
     <item component="ComponentInfo{in.indwealth/com.indwealth.android.ui.splash.SplashActivity}" drawable="graph_up"/>
 <!--    Immich-->
-    <item component="ComponentInfo{app.alextran.immich/.MainActivity}" drawable="album"/>
+    <item component="ComponentInfo{com.oneplus.gallery/com.coloros.gallery3d.app.MainActivity}" drawable="album"/>
 <!--    Discord-->
     <item component="ComponentInfo{com.discord/.main.MainDefault}" drawable="discord"/>
 <!--    Axis Mobile-->
