@@ -68,4 +68,8 @@
     <item component="ComponentInfo{com.google.android.apps.tachyon/.MainActivity}" drawable="google_meet"/>
 <!--    VLC-->
     <item component="ComponentInfo{org.videolan.vlc/.StartActivity}" drawable="clapperboard"/>
+<!--    Youtube Studio-->
+    <item component="ComponentInfo{com.google.android.apps.youtube.creator/.main.MainActivity}" drawable="youtube_studio"/>
+<!--    Dolby On-->
+    <item component="ComponentInfo{com.dolby.dolby234/com.dolby.sessions.Launcher}" drawable="dolby"/>
 </resources>
