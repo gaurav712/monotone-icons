@@ -72,4 +72,10 @@
     <item component="ComponentInfo{com.google.android.apps.youtube.creator/.main.MainActivity}" drawable="youtube_studio"/>
 <!--    Dolby On-->
     <item component="ComponentInfo{com.dolby.dolby234/com.dolby.sessions.Launcher}" drawable="dolby"/>
+<!--    Photo Pills-->
+    <item component="ComponentInfo{com.photopills.android.photopills/.SplashActivity}" drawable="star_lines"/>
+<!--    Snapbridge-->
+    <item component="ComponentInfo{com.nikon.snapbridge.cmru/.ui.init.NkLLicenceActivity}" drawable="snapbridge"/>
+<!--    Royal Enfield-->
+    <item component="ComponentInfo{com.royalenfield.reprime/.ui.splash.activity.MainSplashScreenActivity}" drawable="royal_enfield"/>
 </resources>
