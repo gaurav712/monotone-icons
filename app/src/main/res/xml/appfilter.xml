@@ -20,8 +20,8 @@
     <item component="ComponentInfo{com.google.android.apps.messaging/.ui.ConversationListActivity}" drawable="chat"/>
 <!--    Recorder-->
     <item component="ComponentInfo{com.oneplus.soundrecorder/com.soundrecorder.browsefile.BrowseFile}" drawable="soundwave"/>
-<!--    K-9 Mail-->
-    <item component="ComponentInfo{com.fsck.k9/.activity.MessageList}" drawable="mention"/>
+<!--    Thunderbird-->
+    <item component="ComponentInfo{net.thunderbird.android/com.fsck.k9.activity.MessageList}" drawable="thunderbird"/>
 <!--    X-Plore-->
     <item component="ComponentInfo{com.lonelycatgames.Xplore/.Browser}" drawable="folder_tree"/>
 <!--    Games-->
@@ -78,4 +78,14 @@
     <item component="ComponentInfo{com.nikon.snapbridge.cmru/.ui.init.NkLLicenceActivity}" drawable="snapbridge"/>
 <!--    Royal Enfield-->
     <item component="ComponentInfo{com.royalenfield.reprime/.ui.splash.activity.MainSplashScreenActivity}" drawable="royal_enfield"/>
+<!--    Aegis-->
+    <item component="ComponentInfo{com.beemdevelopment.aegis/.ui.MainActivity}" drawable="aegis"/>
+<!--    Proton Calendar-->
+    <item component="ComponentInfo{me.proton.android.calendar/.presentation.main.MainActivity}" drawable="proton_calendar"/>
+<!--    Slack-->
+    <item component="ComponentInfo{com.Slack/slack.features.home.HomeActivity}" drawable="slack"/>
+<!--    Whatsapp-->
+    <item component="ComponentInfo{com.whatsapp/.Main}" drawable="whatsapp"/>
+<!--    Let's Hang-->
+    <item component="ComponentInfo{com.walkme.walkmeapp/.MainActivity}" drawable="letshang"/>
 </resources>
