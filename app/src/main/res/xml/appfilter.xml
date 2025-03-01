@@ -88,4 +88,6 @@
     <item component="ComponentInfo{com.whatsapp/.Main}" drawable="whatsapp"/>
 <!--    Let's Hang-->
     <item component="ComponentInfo{com.walkme.walkmeapp/.MainActivity}" drawable="letshang"/>
+<!--    Gmail-->
+    <item component="ComponentInfo{com.google.android.gm}" drawable="mail"/>
 </resources>
