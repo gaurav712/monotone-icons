@@ -1,93 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 <!--    Lightroom-->
-    <item component="ComponentInfo{com.adobe.lrmobile/.StorageCheckActivity}" drawable="lightroom"/>
+    <item component="ComponentInfo{com.adobe.lrmobile}" drawable="lightroom"/>
 <!--    Jupiter-->
-    <item component="ComponentInfo{money.jupiter/.MainActivityDefault}" drawable="jupiter"/>
+    <item component="ComponentInfo{money.jupiter}" drawable="jupiter"/>
 <!--    SC Mobile-->
-    <item component="ComponentInfo{air.app.scb.breeze.android.main.in.prod/.launcher_4d76d8379ab2ac43226b5ab63ea825c3072bee19ed4e318a094c66e8ea8a8e40}" drawable="scb"/>
+    <item component="ComponentInfo{air.app.scb.breeze.android.main.in.prod}" drawable="scb"/>
 <!--    Google Camera-->
-    <item component="ComponentInfo{com.ss.android.ugc.aweme/.CameraLauncher}" drawable="camera_alt"/>
+    <item component="ComponentInfo{com.ss.android.ugc.aweme}" drawable="camera_alt"/>
 <!--    Camera Alt-->
-    <item component="ComponentInfo{com.oplus.camera/.Camera}" drawable="camera"/>
+    <item component="ComponentInfo{com.oplus.camera}" drawable="camera"/>
 <!--    Phone-->
-    <item component="ComponentInfo{com.google.android.dialer/.extensions.GoogleDialtactsActivity}" drawable="phone"/>
+    <item component="ComponentInfo{com.google.android.dialer}" drawable="phone"/>
 <!--    Calculator-->
-    <item component="ComponentInfo{com.oneplus.calculator/com.android.calculator2.Calculator}" drawable="calculator"/>
+    <item component="ComponentInfo{com.oneplus.calculator}" drawable="calculator"/>
 <!--    Calendar-->
-    <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar"/>
+    <item component="ComponentInfo{com.google.android.calendar}" drawable="calendar"/>
 <!--    Messages-->
-    <item component="ComponentInfo{com.google.android.apps.messaging/.ui.ConversationListActivity}" drawable="chat"/>
+    <item component="ComponentInfo{com.google.android.apps.messaging}" drawable="chat"/>
 <!--    Recorder-->
-    <item component="ComponentInfo{com.oneplus.soundrecorder/com.soundrecorder.browsefile.BrowseFile}" drawable="soundwave"/>
+    <item component="ComponentInfo{com.oneplus.soundrecorder}" drawable="soundwave"/>
 <!--    Thunderbird-->
-    <item component="ComponentInfo{net.thunderbird.android/com.fsck.k9.activity.MessageList}" drawable="thunderbird"/>
+    <item component="ComponentInfo{net.thunderbird.android}" drawable="thunderbird"/>
 <!--    X-Plore-->
-    <item component="ComponentInfo{com.lonelycatgames.Xplore/.Browser}" drawable="folder_tree"/>
+    <item component="ComponentInfo{com.lonelycatgames.Xplore}" drawable="folder_tree"/>
 <!--    Games-->
-    <item component="ComponentInfo{com.oplus.games/.ui.main.MainGameActivity}" drawable="gamepad"/>
+    <item component="ComponentInfo{com.oplus.games}" drawable="gamepad"/>
 <!--    Clock-->
-    <item component="ComponentInfo{com.oneplus.deskclock/com.oplus.alarmclock.AlarmClock}" drawable="clock"/>
+    <item component="ComponentInfo{com.oneplus.deskclock}" drawable="clock"/>
 <!--    Contacts-->
-    <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="user"/>
+    <item component="ComponentInfo{com.google.android.contacts}" drawable="user"/>
 <!--    Paytm Money-->
-    <item component="ComponentInfo{com.paytmmoney/.ui.splash.BaseSplashActivity}" drawable="hand_money"/>
+    <item component="ComponentInfo{com.paytmmoney}" drawable="hand_money"/>
 <!--    Firefox-->
-    <item component="ComponentInfo{org.mozilla.firefox/.App}" drawable="firefox"/>
+    <item component="ComponentInfo{org.mozilla.firefox}" drawable="firefox"/>
 <!--    Proton Pass-->
-    <item component="ComponentInfo{proton.android.pass/.ui.MainActivity}" drawable="password"/>
+    <item component="ComponentInfo{proton.android.pass}" drawable="password"/>
 <!--    Settings-->
-    <item component="ComponentInfo{com.android.settings/.Settings}" drawable="settings"/>
+    <item component="ComponentInfo{com.android.settings}" drawable="settings"/>
 <!--    Syncthing-->
-    <item component="ComponentInfo{com.nutomic.syncthingandroid/.activities.FirstStartActivity}" drawable="share"/>
+    <item component="ComponentInfo{com.nutomic.syncthingandroid}" drawable="share"/>
 <!--    MotionCam Pro-->
-    <item component="ComponentInfo{com.motioncam.pro/.CameraActivity}" drawable="videocamera"/>
+    <item component="ComponentInfo{com.motioncam.pro}" drawable="videocamera"/>
 <!--    Logseq-->
-    <item component="ComponentInfo{com.logseq.app/.MainActivity}" drawable="checklist"/>
+    <item component="ComponentInfo{com.logseq.app}" drawable="checklist"/>
 <!--    Protonmail-->
-    <item component="ComponentInfo{ch.protonmail.android/.MainActivity}" drawable="protonmail"/>
+    <item component="ComponentInfo{ch.protonmail.android}" drawable="protonmail"/>
 <!--    Play Store-->
-    <item component="ComponentInfo{com.android.vending/.AssetBrowserActivity}" drawable="playstore"/>
+    <item component="ComponentInfo{com.android.vending}" drawable="playstore"/>
 <!--    Skype-->
-    <item component="ComponentInfo{com.skype.raider/com.skype4life.MainActivity}" drawable="skype"/>
+    <item component="ComponentInfo{com.skype.raider}" drawable="skype"/>
 <!--    Paytm-->
-    <item component="ComponentInfo{net.one97.paytm/.landingpage.activity.AJRMainActivity}" drawable="dollar"/>
+    <item component="ComponentInfo{net.one97.paytm}" drawable="dollar"/>
 <!--    IndMoney-->
-    <item component="ComponentInfo{in.indwealth/com.indwealth.android.ui.splash.SplashActivity}" drawable="graph_up"/>
+    <item component="ComponentInfo{in.indwealth}" drawable="graph_up"/>
 <!--    Immich-->
-    <item component="ComponentInfo{com.oneplus.gallery/com.coloros.gallery3d.app.MainActivity}" drawable="album"/>
+    <item component="ComponentInfo{com.oneplus.gallery}" drawable="album"/>
 <!--    Discord-->
-    <item component="ComponentInfo{com.discord/.main.MainDefault}" drawable="discord"/>
+    <item component="ComponentInfo{com.discord}" drawable="discord"/>
 <!--    Axis Mobile-->
-    <item component="ComponentInfo{com.axis.mobile/.MainActivity}" drawable="axis"/>
+    <item component="ComponentInfo{com.axis.mobile}" drawable="axis"/>
 <!--    BGMI-->
-    <item component="ComponentInfo{com.pubg.imobile/com.epicgames.ue4.SplashActivity}" drawable="pubg"/>
+    <item component="ComponentInfo{com.pubg.imobile}" drawable="pubg"/>
 <!--    Maps-->
-    <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="map_search"/>
+    <item component="ComponentInfo{com.google.android.apps.maps}" drawable="map_search"/>
 <!--    Google Meet-->
-    <item component="ComponentInfo{com.google.android.apps.tachyon/.MainActivity}" drawable="google_meet"/>
+    <item component="ComponentInfo{com.google.android.apps.tachyon}" drawable="google_meet"/>
 <!--    VLC-->
-    <item component="ComponentInfo{org.videolan.vlc/.StartActivity}" drawable="clapperboard"/>
+    <item component="ComponentInfo{org.videolan.vlc}" drawable="clapperboard"/>
 <!--    Youtube Studio-->
-    <item component="ComponentInfo{com.google.android.apps.youtube.creator/.main.MainActivity}" drawable="youtube_studio"/>
+    <item component="ComponentInfo{com.google.android.apps.youtube.creator}" drawable="youtube_studio"/>
 <!--    Dolby On-->
-    <item component="ComponentInfo{com.dolby.dolby234/com.dolby.sessions.Launcher}" drawable="dolby"/>
+    <item component="ComponentInfo{com.dolby.dolby234}" drawable="dolby"/>
 <!--    Photo Pills-->
-    <item component="ComponentInfo{com.photopills.android.photopills/.SplashActivity}" drawable="star_lines"/>
+    <item component="ComponentInfo{com.photopills.android.photopills}" drawable="star_lines"/>
 <!--    Snapbridge-->
-    <item component="ComponentInfo{com.nikon.snapbridge.cmru/.ui.init.NkLLicenceActivity}" drawable="snapbridge"/>
+    <item component="ComponentInfo{com.nikon.snapbridge.cmru}" drawable="snapbridge"/>
 <!--    Royal Enfield-->
-    <item component="ComponentInfo{com.royalenfield.reprime/.ui.splash.activity.MainSplashScreenActivity}" drawable="royal_enfield"/>
+    <item component="ComponentInfo{com.royalenfield.reprime}" drawable="royal_enfield"/>
 <!--    Aegis-->
-    <item component="ComponentInfo{com.beemdevelopment.aegis/.ui.MainActivity}" drawable="aegis"/>
+    <item component="ComponentInfo{com.beemdevelopment.aegis}" drawable="aegis"/>
 <!--    Proton Calendar-->
-    <item component="ComponentInfo{me.proton.android.calendar/.presentation.main.MainActivity}" drawable="proton_calendar"/>
+    <item component="ComponentInfo{me.proton.android.calendar}" drawable="proton_calendar"/>
 <!--    Slack-->
-    <item component="ComponentInfo{com.Slack/slack.features.home.HomeActivity}" drawable="slack"/>
+    <item component="ComponentInfo{com.Slack}" drawable="slack"/>
 <!--    Whatsapp-->
-    <item component="ComponentInfo{com.whatsapp/.Main}" drawable="whatsapp"/>
+    <item component="ComponentInfo{com.whatsapp}" drawable="whatsapp"/>
 <!--    Let's Hang-->
-    <item component="ComponentInfo{com.walkme.walkmeapp/.MainActivity}" drawable="letshang"/>
+    <item component="ComponentInfo{com.walkme.walkmeapp}" drawable="letshang"/>
 <!--    Gmail-->
     <item component="ComponentInfo{com.google.android.gm}" drawable="mail"/>
+<!--    Brave-->
+    <item component="ComponentInfo{com.brave.browser}" drawable="brave"/>
 </resources>
