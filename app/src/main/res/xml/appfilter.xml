@@ -92,4 +92,6 @@
     <item component="ComponentInfo{com.google.android.gm}" drawable="mail"/>
 <!--    Brave-->
     <item component="ComponentInfo{com.brave.browser}" drawable="brave"/>
+<!--    Teams-->
+    <item component="ComponentInfo{com.microsoft.teams}" drawable="teams"/>
 </resources>
