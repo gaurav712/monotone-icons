@@ -96,4 +96,6 @@
     <item component="ComponentInfo{com.microsoft.teams}" drawable="teams"/>
 <!--    TrainAI-->
     <item component="ComponentInfo{com.glodin.WorkoutApp}" drawable="android"/>
+<!--    xed editor-->
+    <item component="ComponentInfo{com.rk.xededitor}" drawable="notes"/>
 </resources>
