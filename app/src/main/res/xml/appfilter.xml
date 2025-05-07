@@ -38,8 +38,8 @@
     <item component="ComponentInfo{proton.android.pass}" drawable="password"/>
 <!--    Settings-->
     <item component="ComponentInfo{com.android.settings}" drawable="settings"/>
-<!--    Syncthing-->
-    <item component="ComponentInfo{com.nutomic.syncthingandroid}" drawable="share"/>
+<!--    Syncthing Fork-->
+    <item component="ComponentInfo{com.github.catfriend1.syncthingandroid}" drawable="share"/>
 <!--    MotionCam Pro-->
     <item component="ComponentInfo{com.motioncam.pro}" drawable="videocamera"/>
 <!--    Logseq-->
