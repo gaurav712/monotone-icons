@@ -102,4 +102,6 @@
     <item component="ComponentInfo{org.breezyweather}" drawable="weather"/>
 <!--    Gadget Bridge-->
     <item component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge}" drawable="watch"/>
+<!--    IR Remote-->
+    <item component="ComponentInfo{com.oplus.consumerIRApp}" drawable="remote"/>
 </resources>
