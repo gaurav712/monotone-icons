@@ -104,4 +104,14 @@
     <item component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge}" drawable="watch"/>
 <!--    IR Remote-->
     <item component="ComponentInfo{com.oplus.consumerIRApp}" drawable="remote"/>
+<!--    Zomato-->
+    <item component="ComponentInfo{com.application.zomato}" drawable="zomato"/>
+<!--    Swiggy-->
+    <item component="ComponentInfo{in.swiggy.android}" drawable="swiggy"/>
+<!--    Blanket (Soothing Noise Player/Looper)-->
+    <item component="ComponentInfo{ie.delilahsthings.soothingloop}" drawable="blanket"/>
+<!--    Prime Video-->
+    <item component="ComponentInfo{com.amazon.avod.thirdpartyclient}" drawable="primevideo"/>
+<!--    SuperMoney-->
+    <item component="ComponentInfo{money.super.payments}" drawable="supermoney"/>
 </resources>
