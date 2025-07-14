@@ -114,4 +114,8 @@
     <item component="ComponentInfo{com.amazon.avod.thirdpartyclient}" drawable="primevideo"/>
 <!--    SuperMoney-->
     <item component="ComponentInfo{money.super.payments}" drawable="supermoney"/>
+<!--    Rapido-->
+    <item component="ComponentInfo{com.rapido.passenger}" drawable="scooter"/>
+<!--    Where is my train-->
+    <item component="ComponentInfo{com.whereismytrain.android}" drawable="train"/>
 </resources>
