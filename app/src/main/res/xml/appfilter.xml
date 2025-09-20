@@ -39,7 +39,7 @@
 <!--    Settings-->
     <item component="ComponentInfo{com.android.settings}" drawable="settings"/>
 <!--    Syncthing Fork-->
-    <item component="ComponentInfo{com.github.catfriend1.syncthingandroid}" drawable="share"/>
+    <item component="ComponentInfo{com.github.catfriend1.syncthingfork}" drawable="share"/>
 <!--    MotionCam Pro-->
     <item component="ComponentInfo{com.motioncam.pro}" drawable="videocamera"/>
 <!--    Logseq-->
@@ -118,4 +118,10 @@
     <item component="ComponentInfo{com.rapido.passenger}" drawable="scooter"/>
 <!--    Where is my train-->
     <item component="ComponentInfo{com.whereismytrain.android}" drawable="train"/>
+<!--    PPSSPP-->
+    <item component="ComponentInfo{org.ppsspp.ppssppgold}" drawable="ppsspp"/>
+<!--    Eden-->
+    <item component="ComponentInfo{com.miHoYo.Yuanshen}" drawable="nxswitch"/>
+<!--    RetroArch-->
+    <item component="ComponentInfo{com.retroarch.aarch64}" drawable="retroarch"/>
 </resources>
