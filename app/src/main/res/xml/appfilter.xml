@@ -124,4 +124,6 @@
     <item component="ComponentInfo{com.miHoYo.Yuanshen}" drawable="nxswitch"/>
 <!--    RetroArch-->
     <item component="ComponentInfo{com.retroarch.aarch64}" drawable="retroarch"/>
+<!--    Clash of Clans-->
+    <item component="ComponentInfo{com.supercell.clashofclans}" drawable="clash_of_clans"/>
 </resources>
