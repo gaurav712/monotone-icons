@@ -96,6 +96,7 @@
     <item component="ComponentInfo{com.microsoft.teams}" drawable="teams"/>
 <!--    TrainAI-->
     <item component="ComponentInfo{com.glodin.WorkoutApp}" drawable="android"/>
+    <item component="ComponentInfo{au.com.edutalent.app}" drawable="android"/>
 <!--    xed editor-->
     <item component="ComponentInfo{com.rk.xededitor}" drawable="notes"/>
 <!--    Breezy Weather-->
@@ -126,4 +127,6 @@
     <item component="ComponentInfo{com.retroarch.aarch64}" drawable="retroarch"/>
 <!--    Clash of Clans-->
     <item component="ComponentInfo{com.supercell.clashofclans}" drawable="clash_of_clans"/>
+<!--    OnlyOffice-->
+    <item component="ComponentInfo{com.onlyoffice.documents}" drawable="onlyoffice"/>
 </resources>
