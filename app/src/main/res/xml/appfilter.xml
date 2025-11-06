@@ -129,4 +129,6 @@
     <item component="ComponentInfo{com.supercell.clashofclans}" drawable="clash_of_clans"/>
 <!--    OnlyOffice-->
     <item component="ComponentInfo{com.onlyoffice.documents}" drawable="onlyoffice"/>
+<!--    Compass-->
+    <item component="ComponentInfo{com.coloros.compass2}" drawable="compass"/>
 </resources>
