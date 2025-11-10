@@ -131,4 +131,6 @@
     <item component="ComponentInfo{com.onlyoffice.documents}" drawable="onlyoffice"/>
 <!--    Compass-->
     <item component="ComponentInfo{com.coloros.compass2}" drawable="compass"/>
+<!--    Compass-->
+    <item component="ComponentInfo{com.magicpin.local}" drawable="magicpin"/>
 </resources>
