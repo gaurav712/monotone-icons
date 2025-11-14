@@ -131,6 +131,8 @@
     <item component="ComponentInfo{com.onlyoffice.documents}" drawable="onlyoffice"/>
 <!--    Compass-->
     <item component="ComponentInfo{com.coloros.compass2}" drawable="compass"/>
-<!--    Compass-->
+<!--    Magicpin-->
     <item component="ComponentInfo{com.magicpin.local}" drawable="magicpin"/>
+<!--    Newpipe-->
+    <item component="ComponentInfo{org.schabi.newpipe}" drawable="newpipe"/>
 </resources>
