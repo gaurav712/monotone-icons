@@ -135,4 +135,6 @@
     <item component="ComponentInfo{com.magicpin.local}" drawable="magicpin"/>
 <!--    Newpipe-->
     <item component="ComponentInfo{org.schabi.newpipe}" drawable="newpipe"/>
+<!--    Play Books-->
+    <item component="ComponentInfo{com.google.android.apps.books}" drawable="books"/>
 </resources>
