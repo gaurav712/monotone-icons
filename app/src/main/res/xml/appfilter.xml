@@ -137,4 +137,6 @@
     <item component="ComponentInfo{org.schabi.newpipe}" drawable="newpipe"/>
 <!--    Play Books-->
     <item component="ComponentInfo{com.google.android.apps.books}" drawable="books"/>
+<!--    gCMOB CP Plus-->
+    <item component="ComponentInfo{com.mm.android.direct.g_CMOB_XU}" drawable="cctv"/>
 </resources>
