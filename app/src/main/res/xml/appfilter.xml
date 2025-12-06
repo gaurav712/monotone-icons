@@ -94,9 +94,6 @@
     <item component="ComponentInfo{com.brave.browser}" drawable="brave"/>
 <!--    Teams-->
     <item component="ComponentInfo{com.microsoft.teams}" drawable="teams"/>
-<!--    TrainAI-->
-    <item component="ComponentInfo{com.glodin.WorkoutApp}" drawable="android"/>
-    <item component="ComponentInfo{au.com.edutalent.app}" drawable="android"/>
 <!--    xed editor-->
     <item component="ComponentInfo{com.rk.xededitor}" drawable="notes"/>
 <!--    Breezy Weather-->
@@ -139,4 +136,10 @@
     <item component="ComponentInfo{com.google.android.apps.books}" drawable="books"/>
 <!--    gCMOB CP Plus-->
     <item component="ComponentInfo{com.mm.android.direct.g_CMOB_XU}" drawable="cctv"/>
+<!--    Traya-->
+    <item component="ComponentInfo{com.traya.prod}" drawable="hair"/>
+<!--    Dev Apps-->
+    <item component="ComponentInfo{com.glodin.WorkoutApp}" drawable="android"/>
+    <item component="ComponentInfo{au.com.edutalent.app}" drawable="android"/>
+    <item component="ComponentInfo{com.iappsolution.qard}" drawable="android"/>
 </resources>
