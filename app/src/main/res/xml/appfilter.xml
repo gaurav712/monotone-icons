@@ -146,6 +146,8 @@
     <item component="ComponentInfo{com.mm.android.direct.g_CMOB_XU}" drawable="cctv"/>
 <!--    Traya-->
     <item component="ComponentInfo{com.traya.prod}" drawable="hair"/>
+<!--    Libretorrent-->
+    <item component="ComponentInfo{org.proninyaroslav.libretorrent}" drawable="libretorrent"/>
 <!--    Dev Apps-->
     <item component="ComponentInfo{com.glodin.WorkoutApp}" drawable="android"/>
     <item component="ComponentInfo{au.com.edutalent.app}" drawable="android"/>
