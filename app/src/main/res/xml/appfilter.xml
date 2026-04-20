@@ -108,6 +108,8 @@
     <item component="ComponentInfo{org.breezyweather}" drawable="weather"/>
 <!--    Gadget Bridge-->
     <item component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge}" drawable="watch"/>
+<!--    Boat Crest-->
+    <item component="ComponentInfo{com.coveiot.android.boat}" drawable="watch_alt"/>
 <!--    IR Remote-->
     <item component="ComponentInfo{com.oplus.consumerIRApp}" drawable="remote"/>
 <!--    Zomato-->
