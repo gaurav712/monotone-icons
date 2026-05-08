@@ -64,6 +64,7 @@
 <!--    Immich-->
     <item component="ComponentInfo{com.oneplus.gallery}" drawable="album"/>
     <item component="ComponentInfo{org.fossify.gallery}" drawable="album"/>
+    <item component="ComponentInfo{org.fossify.gallery.debug}" drawable="album"/>
 <!--    Discord-->
     <item component="ComponentInfo{com.discord}" drawable="discord"/>
 <!--    Axis Mobile-->
@@ -150,6 +151,8 @@
     <item component="ComponentInfo{com.traya.prod}" drawable="hair"/>
 <!--    Libretorrent-->
     <item component="ComponentInfo{org.proninyaroslav.libretorrent}" drawable="libretorrent"/>
+<!--    Fdroid-->
+    <item component="ComponentInfo{org.fdroid.fdroid}" drawable="fdroid"/>
 <!--    Dev Apps-->
     <item component="ComponentInfo{com.glodin.WorkoutApp}" drawable="android"/>
     <item component="ComponentInfo{au.com.edutalent.app}" drawable="android"/>
