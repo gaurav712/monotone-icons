@@ -153,6 +153,8 @@
     <item component="ComponentInfo{org.proninyaroslav.libretorrent}" drawable="libretorrent"/>
 <!--    Fdroid-->
     <item component="ComponentInfo{org.fdroid.fdroid}" drawable="fdroid"/>
+<!--    Claude-->
+    <item component="ComponentInfo{com.anthropic.claude}" drawable="claude"/>
 <!--    Dev Apps-->
     <item component="ComponentInfo{com.glodin.WorkoutApp}" drawable="android"/>
     <item component="ComponentInfo{au.com.edutalent.app}" drawable="android"/>
